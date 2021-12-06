@@ -7,7 +7,7 @@
 <h3>npm run serve<h3><br/>
 
 
-<h3>Compiles and minifies for production<h1>
+<h1>Compiles and minifies for production<h1>
 <h3>npm run build<h3><br/>
 
 

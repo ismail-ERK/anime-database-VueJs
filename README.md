@@ -1,18 +1,18 @@
 # anime-database-VueJs
 <h1>Project setup</h1>
-<input value="npm install"/><br/>
+<h3>npm install<h3><br/>
 
 
-Compiles and hot-reloads for development
-<input value="npm run serve"/><br/>
+<h1>Compiles and hot-reloads for development<h1>
+<h3>npm run serve<h3><br/>
 
 
-Compiles and minifies for production
-<input value="npm run build"/><br/>
+<h3>Compiles and minifies for production<h1>
+<h3>npm run build<h3><br/>
 
 
-Lints and fixes files
-<input value="npm run lint"/><br/>
+<h1>Lints and fixes files<h1>
+<h3>npm run lint<h3><br/>
 
 
 
